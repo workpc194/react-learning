@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body{
+  background: #000;
+  width: 100vw;
+  height: 100vh;
+}
+
+.nav{
+  width: calc(100% - 60px);
+  height: 70px;
+  border-bottom: 2px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+
+.links{
+  display: flex;
+  gap: 20px;
+}
+
+h1{
+  font-size: 150px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-wrap: nowrap;
+}
+
+a{
+  text-decoration: none;
+}
+
+.product-link{
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: 35%;
+  margin-top: 20px;
+}
+
+.back-btn{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  color: #000;
+}

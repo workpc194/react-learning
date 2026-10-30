@@ -31,22 +31,6 @@ This project was created as part of my React learning journey to practice core c
 
 ---
 
-## 📁 Project Structure
-notes-app/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── App.jsx          # Main application logic
-│   ├── App.css          # Additional styles (from Vite template)
-│   ├── index.css        # Tailwind import
-│   └── main.jsx         # Entry point
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
-
----
 
 ## 🧠 How It Works
 
